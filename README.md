@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**zer0bav/zer0bav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning. Breaking. Building.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 TryHackMe  
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/zer0bav.png)
+
+🌐 LinkedIn  
+[LinkedIn](https://www.linkedin.com/in/baver-%C3%B6zmen-81264b368/)
+
+🐦 X  
+[X](https://x.com/zer0bav)
+
+---
+
+### intr0vert  
+Co-founder with [jansudo](https://github.com/jansudo)  
+A space for curious minds, code, and quiet rebellion.
