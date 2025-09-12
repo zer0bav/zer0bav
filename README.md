@@ -14,6 +14,6 @@ Learning. Breaking. Building.
 
 ---
 
-### intr0vert  
+### [intr0vert](https://introvert.team)  
 Co-founder with [jansudo](https://github.com/jansudo)  
 A space for curious minds, code, and quiet rebellion.
