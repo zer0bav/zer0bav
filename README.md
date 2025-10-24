@@ -3,13 +3,13 @@ Learning. Breaking. Building.
 
 ---
 
-🔐 TryHackMe  
+TryHackMe  
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/zer0bav.png)
 
-🌐 LinkedIn  
+LinkedIn  
 [LinkedIn](https://www.linkedin.com/in/baver-%C3%B6zmen-81264b368/)
 
-🐦 X  
+X  
 [X](https://x.com/zer0bav)
 
 ---
